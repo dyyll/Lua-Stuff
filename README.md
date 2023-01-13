@@ -1,2 +1,0 @@
-# Lua-Stuff
-Only Lua
